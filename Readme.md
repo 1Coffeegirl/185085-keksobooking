@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Irina Tisserand](https://up.htmlacademy.ru/javascript/9/user/185085).
-* Наставник: `Неизвестно`.
+* Наставник: `нет наставника`.
 
 ---
 
